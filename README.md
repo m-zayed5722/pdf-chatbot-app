@@ -1,6 +1,10 @@
-# PDF Chatbot Application
+# PDF Chatbot Assistant
 
-This project is a chatbot application that answers questions based on the content of uploaded PDF documents. It utilizes LangChain for managing the interaction with the vector database and integrates with GPT-4 (or an open-source LLM) for generating responses.
+A modern, intelligent chatbot application that analyzes PDF documents and answers questions about their content using Ollama's LLM technology and efficient vector database storage.
+
+## About
+
+This project was developed by Mohamed Zayed ([@m-zayed5722](https://github.com/m-zayed5722)) as a demonstration of modern AI capabilities in document analysis and natural language processing. It features a sleek, user-friendly interface and powerful backend processing.
 
 ## Project Structure
 
